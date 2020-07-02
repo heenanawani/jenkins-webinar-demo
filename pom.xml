@@ -37,7 +37,7 @@
 						<region>us-west-1</region>
 						<environment>Sandbox</environment>
 						<applicationName>jenkins-webinar-demo</applicationName>
-						<!-- <objectStoreV2>true</objectStoreV2> -->
+						<objectStoreV2>true</objectStoreV2> 
 					</cloudHubDeployment>
 					<classifier>mule-application</classifier>
 					<!-- <executions> <execution> <id>deploy</id> <goals> <goal>deploy</goal> 
